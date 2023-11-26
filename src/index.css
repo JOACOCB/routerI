@@ -1,0 +1,26 @@
+.cake{
+ margin-right: 5em;
+  
+}
+
+.cuerpo{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacto1{
+    margin: 0.5%;
+}
+
+.boton{
+    margin-top: 20%;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+}
